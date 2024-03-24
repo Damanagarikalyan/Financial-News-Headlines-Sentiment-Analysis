@@ -14,7 +14,7 @@ Since the data is straight forward and text-based, there are not much to explore
 Part 3 - Natural Language Processing with TextBlob
 Applied Python’s TextBlob to perform text polarity analysis, and used clustering algorithms (K-Means Clustering and Natural Break Optimization) to categorize positive, neutral, and negative articles.
 
-Part 4 - Natural Language Processing with vaderSentiment
+Part 4 - Natural Language Processing with Sentiment
 Applied Python’s vaderSentiment to perform text polarity analysis, and used clustering algorithms (K-Means Clustering and Natural Break Optimization) to categorize positive, neutral, and negative articles.
 
 Part 5 - Natural Language Processing with nltk and application of Deep Learning models (ANN, CNN) with Google News Word2Vec
